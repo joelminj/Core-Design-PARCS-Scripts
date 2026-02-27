@@ -1,3 +1,5 @@
+using PARCS: https://arcas.engin.umich.edu/parcs/
+
 <img width="875" height="656" alt="planar_flux_distribution" src="https://github.com/user-attachments/assets/69da6cb8-d8ef-4b36-97a2-c7a4919a68df" />
 <img width="875" height="656" alt="assembly_power_distribution" src="https://github.com/user-attachments/assets/de4c9dd1-5c5f-4304-bd9d-99a75c64764d" />
 <img width="1189" height="690" alt="planar_xeon_distribution" src="https://github.com/user-attachments/assets/e0fd9cc0-98fa-4aa5-8f71-1c46ffd4dba7" />
